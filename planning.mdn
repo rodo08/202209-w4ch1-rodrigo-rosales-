@@ -17,6 +17,15 @@
 
 - The title "Señores que te apuntan con el dedo" inside a h1
 
+## Button
+
+### Show: data
+
+- A text with "select all" sentence
+
+### Get action:
+- To select all the gentlemen 
+
 ## Info
 
 ### Show data
@@ -31,7 +40,8 @@
 
 ### Get actions:
 
-- Call the received action on click
+- Add gentlemen to user's selected gentlemen at Info component
+- Del gentlemen from user's selected gentlemen at Info component
 
 ## GentlemenList
 
@@ -52,3 +62,4 @@
 ### Get actions:
 
 - Toggle the selected status of the received gentleman on click
+
